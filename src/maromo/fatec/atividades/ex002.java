@@ -1,4 +1,4 @@
-package maromo;
+package maromo.fatec.atividades;
 
 import java.util.Scanner;
 
