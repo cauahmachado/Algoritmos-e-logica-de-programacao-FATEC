@@ -1,4 +1,4 @@
-package maromo.fatec.fixacao;
+package maromo.fatec.exerciciosComplementares.Basico;
 
 public class ex001Operadores {
     public static void main(String[] args) {

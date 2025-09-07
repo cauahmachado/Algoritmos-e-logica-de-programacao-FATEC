@@ -1,4 +1,4 @@
-package maromo.fatec.fixacao;
+package maromo.fatec.exerciciosComplementares;
 
 import java.util.Scanner;
 

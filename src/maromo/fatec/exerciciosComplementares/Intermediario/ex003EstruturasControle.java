@@ -1,4 +1,4 @@
-package maromo.fatec.fixacao;
+package maromo.fatec.exerciciosComplementares;
 
 public class ex003EstruturasControle {
     public static void main(String[] args) {
