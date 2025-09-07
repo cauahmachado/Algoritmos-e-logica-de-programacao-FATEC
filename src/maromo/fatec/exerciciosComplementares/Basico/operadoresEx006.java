@@ -2,7 +2,7 @@ package maromo.fatec.exerciciosComplementares.Basico;
 
 import java.util.Scanner;
 
-public class ex006Operadores {
+public class operadoresEx006 {
     public static void main(String[] args) {
         double cotDolar = 5.46;
         Scanner x = new Scanner(System.in);

@@ -6,7 +6,7 @@ import java.util.Scanner;
 Cire um fluxograma e um programa para calcular a média ponderada de duas notas de um aluno.
 a nota 1 tem peso 3 a nota 2 tem peso 7
  */
-public class ex005Operadores {
+public class operadoresEx005 {
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
 

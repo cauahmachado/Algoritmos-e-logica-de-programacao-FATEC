@@ -1,4 +1,4 @@
-package maromo.fatec.exerciciosComplementares;
+package maromo.fatec.exerciciosComplementares.Intermediario;
 
 import java.util.Scanner;
 

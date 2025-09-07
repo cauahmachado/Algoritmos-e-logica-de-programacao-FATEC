@@ -1,6 +1,6 @@
 package maromo.fatec.exerciciosComplementares.Basico;
 
-public class ex001Operadores {
+public class operadoresEx001 {
     public static void main(String[] args) {
        //calcule o resultado das expressões
        //10+5*3

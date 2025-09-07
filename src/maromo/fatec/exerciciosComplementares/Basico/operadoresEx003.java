@@ -1,6 +1,6 @@
 package maromo.fatec.exerciciosComplementares.Basico;
 
-public class ex003Operadores {
+public class operadoresEx003 {
     public static void main(String[] args) {
         //escreva um porgrama para calcular o estoque médio
         //onde estoque médio=(quantidade minima + quantidade maxima)/2

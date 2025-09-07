@@ -1,6 +1,6 @@
 package maromo.fatec.exerciciosComplementares.Basico;
 
-public class ex002Operadores {
+public class operadoresEx002 {
     public static void main(String[] args) {
         //crie um programa para vereficar se um número é par ou ímpar
         int num=5;

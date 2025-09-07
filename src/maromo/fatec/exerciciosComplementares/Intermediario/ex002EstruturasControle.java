@@ -1,4 +1,4 @@
-package maromo.fatec.exerciciosComplementares;
+package maromo.fatec.exerciciosComplementares.Intermediario;
 
 public class ex002EstruturasControle {
     public static void main(String[] args) {
