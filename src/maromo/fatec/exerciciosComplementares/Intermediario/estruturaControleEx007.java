@@ -1,11 +1,10 @@
 package maromo.fatec.exerciciosComplementares.Intermediario;
-
 import java.util.Scanner;
 
 /*
 Crie um meno interativo com as opções de: Soma, Subtração, e sair
  */
-public class EstruturaControleEx007 {
+public class estruturaControleEx007 {
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
         System.out.println("Number");

@@ -1,11 +1,9 @@
 package maromo.fatec.exerciciosComplementares.Intermediario;
 
-import java.lang.classfile.instruction.SwitchCase;
-
 /*
 Solicite três numeros e determine o maior e o menor deles
  */
-public class EstruturaControleEx006 {
+public class estruturaControleEx006 {
     public static void main(String[] args) {
         int n1 = 10;
         int n2 = 100;

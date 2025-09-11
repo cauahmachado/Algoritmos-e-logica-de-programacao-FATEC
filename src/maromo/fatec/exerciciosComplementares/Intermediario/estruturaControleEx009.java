@@ -1,5 +1,4 @@
 package maromo.fatec.exerciciosComplementares.Intermediario;
-
 import java.util.Scanner;
 /*
 Solicite 5 números e exiba a soma e a média

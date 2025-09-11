@@ -1,5 +1,4 @@
 package maromo.fatec.exerciciosComplementares.Basico;
-
 import java.util.Scanner;
 
 public class variaveisEx001 {

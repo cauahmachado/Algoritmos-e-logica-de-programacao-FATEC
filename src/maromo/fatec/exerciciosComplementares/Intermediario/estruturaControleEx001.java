@@ -1,11 +1,10 @@
 package maromo.fatec.exerciciosComplementares.Intermediario;
-
 import java.util.Scanner;
 
 /*
 Crie um programa que determine se um número é par ou impar usando if
  */
-public class ex001EstruturasControle {
+public class estruturaControleEx001 {
     public static void main(String[] args) {
         Scanner x = new Scanner(System.in);
 

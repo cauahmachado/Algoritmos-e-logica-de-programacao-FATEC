@@ -1,4 +1,5 @@
 package maromo.fatec.exerciciosComplementares.Intermediario;
+
 /*
 Crie um programa que calcule o fatorial de um npumero.
  */
